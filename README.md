@@ -1,5 +1,7 @@
 # SlimDark
-<img src="https://i.imgur.com/gZug4Fu.png" width="32.9%"> <img src="https://i.imgur.com/759vNjl.png" width="32.9%"> <img src="https://i.imgur.com/HFZ7ie6.png" width="32.9%">
+<p align="center">
+  <img src="https://i.imgur.com/gZug4Fu.png" width="32.9%"> <img src="https://i.imgur.com/759vNjl.png" width="32.9%"> <img src="https://i.imgur.com/HFZ7ie6.png" width="32.9%">
+</p>
 <p align="center">
   Darker Slim Discord Theme.<br>
   Resized and Cutomized Icons and some Elements.
